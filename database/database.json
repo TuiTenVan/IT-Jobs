@@ -1,0 +1,404 @@
+{
+  "company": [
+    {
+      "companyName": "Công ty ABC",
+      "phone": "0935324245",
+      "email": "contact@abc.com",
+      "password": "123456",
+      "token": "pwYhBgkNOANIjtKI7WHz",
+      "id": 1,
+      "quantityPeople": 8,
+      "description": "1. Tầm nhìn\nTrở thành một trong những ngân hàng tốt nhất Việt Nam, hướng tới vị trí trong top 3, với định vị là một ngân hàng cộng đồng, có đội ngũ nhân viên thân thiện và điểm giao dịch thuận lợi.\n2. Phương châm chiến lược\nTăng trưởng mạnh, tạo sự khác biệt và bền vững bằng văn hóa kỷ luật, đội ngũ nhân sự tinh thông về nghiệp vụ, cam kết cao và được tổ chức khoa học.",
+      "detail": "Mức lương cạnh tranh, hấp dẫn (Thưởng xếp loại thực hiện công việc 6 tháng/lần, thưởng sinh nhật ngân hàng, thưởng các ngày lễ tết trong năm…).\nChế độ phúc lợi cạnh tranh: Du lịch hàng năm, Khám sức khỏe định kì hàng năm; Gói bảo hiểm sức khỏe; Các hoạt động tri ân, chăm lo đời sống tinh thần CBNV và Thân nhân...\nMôi trường làm việc chuyên nghiệp, thân thiện, cởi mở.\nĐược làm việc với các hệ thống hiện đại, tiên tiến nhất thị trường, áp dụng các công nghệ hàng đầu về an ninh bảo mật để đảm bảo an toàn cho người sử dụng.\nCơ hội học hỏi nghiệp vụ ngân hàng.",
+      "address": "123 đường Tran Phu",
+      "workingTime": "T2 - T7",
+      "website": "https://abc.com"
+    },
+    {
+      "companyName": "Công ty ABCD",
+      "password": "123456",
+      "email": "contact@abcd.com",
+      "phone": "0973455645",
+      "token": "JqHrujb2R9HeyJC0Txj9",
+      "id": 2
+    },
+    {
+      "companyName": "Gia đình Nguyễn Viết Văn",
+      "email": "nguyenvietvan223@gmail.com",
+      "phone": "0326765923",
+      "password": "123456",
+      "token": "lq1EC1JjBfkEVGvdbYIm",
+      "id": 3,
+      "address": "Đoàn Tùng - Thanh Miện - Hải Dương",
+      "quantityPeople": 2,
+      "workingTime": "8 a.m - 22 p.m",
+      "website": "https://github.com/TuiTenVan",
+      "description": "Chúng tôi là một doanh nghiệp đang phát triển với sứ mệnh cung cấp giải pháp công nghệ sáng tạo và hiệu quả cho khách hàng trên khắp thế giới. Với một đội ngũ chuyên gia đa ngành và tâm huyết, chúng tôi cam kết đem lại giá trị cao nhất cho đối tác và xây dựng những sản phẩm có ảnh hưởng tích cực đến cộng đồng.",
+      "detail": "Lĩnh Vực Hoạt Động:\n\nPhát triển phần mềm và ứng dụng di động\nGiải pháp Cloud và quản lý hạ tầng\nAn ninh thông tin và bảo mật mạng\nTrí tuệ nhân tạo và học máy\nTư vấn công nghệ và dịch vụ IT\nGiá Trị Cốt Lõi:\nChúng tôi đặt giá trị khách hàng lên hàng đầu và luôn tìm kiếm sự đổi mới để đáp ứng nhanh chóng với sự phức tạp của thị trường công nghệ. Chúng tôi tôn trọng ý kiến đóng góp từ mỗi thành viên trong đội ngũ và xây dựng một môi trường làm việc sáng tạo và động lực.\n\nChương Trình Phúc Lợi:\n\nMức lương cạnh tranh và thưởng kết quả làm việc\nGói bảo hiểm sức khỏe và phúc lợi cho nhân viên và gia đình\nKhám sức khỏe định kỳ và các chương trình phòng ngừa\nHỗ trợ đào tạo và phát triển nghề nghiệp\nMôi trường làm việc linh hoạt và thân thiện"
+    }
+  ],
+  "city": [
+    {
+      "key": 1,
+      "value": "Hà Nội"
+    },
+    {
+      "key": 2,
+      "value": "Hồ Chí Minh"
+    },
+    {
+      "key": 3,
+      "value": "Đà Nẵng"
+    }
+  ],
+  "tags": [
+    {
+      "key": 1,
+      "value": "HTML"
+    },
+    {
+      "key": 2,
+      "value": "CSS"
+    },
+    {
+      "key": 3,
+      "value": "Javascript"
+    },
+    {
+      "key": 4,
+      "value": "Database"
+    },
+    {
+      "key": 5,
+      "value": "JSON"
+    },
+    {
+      "key": 6,
+      "value": "PHP"
+    },
+    {
+      "key": 7,
+      "value": "Python"
+    },
+    {
+      "key": 8,
+      "value": "Java"
+    },
+    {
+      "key": 9,
+      "value": "SQL"
+    },
+    {
+      "key": 10,
+      "value": "Angular"
+    },
+    {
+      "key": 11,
+      "value": "NodeJS"
+    },
+    {
+      "key": 12,
+      "value": "ReactJS"
+    },
+    {
+      "key": 13,
+      "value": "VueJS"
+    },
+    {
+      "key": 14,
+      "value": "Django"
+    },
+    {
+      "key": 15,
+      "value": "JQuery"
+    },
+    {
+      "key": 16,
+      "value": "TypeScript"
+    }
+  ],
+  "jobs": [
+    {
+      "idCompany": 1,
+      "name": "Frontend Dev (Angular/ReactJS)",
+      "tags": [
+        "ReactJS",
+        "Angular",
+        "TypeScript"
+      ],
+      "salary": "1000",
+      "description": "Top 3 Reasons To Join Us\nChance to grow up in your career path\nTalented and enthusiastic colleagues.\nAmazing new tech in Bigdata & AI\nJob Description\nTechcom Securities (TCBS) is seeking for a Front-end Developer to join our IT team based in Hanoi office. An ideal Front End Engineer would have 3+ years of experience in building highly scalable UI on the Web/Mobile.\nThis is your chance to become part of the leading innovative and reputable investment banking team in Vietnam!\n\nWe are looking for passionate, talented, and highly motivated hands-on Front End Developers with a creative edge, strong problem solving skills and strong on development fundamentals. We strive to maintain an open culture where everyone is a contributor and feels comfortable sharing ideas and opinions. Our team, drawn from the best product companies, is obsessive in its detailing and our focus is on awesome User Interaction.\n\nYour Skills and Experience\nRequired Skills:\n\nHighly skilled at front-end engineering using Object-Oriented JavaScript, various JavaScript libraries and micro frameworks (Angular/React.js Prototype, Backbone), HTML and CSS\nWell versed in software engineering principles, frameworks and technologies\nExcellent communication skills\nSelf-directed team player who thrives in a continually changing environment\nShould Have:\n\nBuilds web/mobile software applications Follows coding standards, builds appropriate unit tests, integration tests and deployment scripts\nAssists in defining architectures Collaborates with teams to explore existing systems, determines areas of complexity and learns the applications capabilities\nOwns success Takes responsibility for successful delivery of the solutions\nCommunicates continually with the project teams Explains progress on the development effort\nTranslates designs and style guides provided by the UI/UX team into functional user interfaces, ensuring cross browser compatibility and performance\nContributes to continual improvement by suggesting improvements to user interface, software architecture or use of new technologies\nNice to have:\n\nComplete understanding of internal code library (jquery or any other)\nSome record of contribution to any front end open source project.\nWhy You'll Love Working Here\n- Review lương 1 lần/ năm\n\n- Cán bộ nhân viên sẽ có từ 12- 15 ngày phép/ năm \n\n- Bảo hiểm AON cho Cán bộ nhân viên\n\n- Công ty có các CLB thể thao sinh hoạt hàng tuần (đá bóng, chạy bộ, cầu lông)\n\n- Team building 1 lần/ 1 năm theo tiêu chuẩn 5 sao\n\n- Môi trường làm việc trẻ, năng động, cơ hội phát triển cao",
+      "status": true,
+      "createAt": "29-04-2023 21:22:17",
+      "id": 1,
+      "city": [
+        "Đà Nẵng"
+      ],
+      "updateAt": "30-04-2023 14:12:25"
+    },
+    {
+      "idCompany": 1,
+      "name": "Frontend Tech Lead (X2)",
+      "tags": [
+        "HTML",
+        "CSS",
+        "ReactJS"
+      ],
+      "salary": "1500",
+      "description": "Top 3 Reasons To Join Us\nAttractive salary package\nHybrid working mode\nSigning bonus for IT related posts\nJob Description\nWe are looking for a Frontend Tech Lead who will bring the best-performed user experience to our customers’ digital transformations in fields such as eCommerce, online presence, and conversion. As a Frontend Tech Lead at Niteco you ensure that our projects deliver innovative and effective frontend technical solutions that bring value to the customer’s business.\n\nRESPONSIBILITIES\nUtilizing your expertise to help review business requirements, design and implement frontend solutions with architectural guidelines in mind (secure, high-performing, scalable, extensible, flexible, simple).\nProactively provide recommendations of innovative solutions to clients’ projects.\nIdentify new frontend technologies to lift up frontend development practices.\nLead/mentor/coach Frontend Developers with best practices including coding standards, design patterns, unit test, test, and deployment.\nYour Skills and Experience\nExcellent knowledge of front-end technologies including but not limited to HTML, CSS (SASS, LESS, Critical), various JS frameworks/libraries.\nStrong experience in single-page frontend applications built on frameworks and libraries like ReactJS, AngularJS, or VueJS.\nExcellent knowledge in critical rendering path optimization.\nGood knowledge of technical SEO, and accessibility compliance.\nExpertise in caching, minification, bundling techniques to improve front-end performance.\nSolid background in design and implementation of external services integrations and API design (using REST/SOAP, Microservices, ESB, SOA, GraphQL, Sockets, etc.)\nExperience with micro frontend architecture is a big plus\n8+ years of proven experience including 2+ years of leading frontend technologies in software development.\nProficient understanding of code versioning tools (GIT, SVN), working experience with Agile methodology\nHaving sound judgment of UI/UX.\nExcellent verbal and written communication skill (English & Vietnamese).\nStrong organizational, time management, and analytical skills.\nAbility to work within a team and independently.\nWhy You'll Love Working Here\nHybrid working mode. \nHighly competitive remuneration package: attractive monthly salary and allowances, 13th month salary, additional performance bonus, high public holiday bonuses, and birthday gift, employee service award up to $1,000 for employees with 3+ years.\nAttractive AON healthcare coverage including health and accident insurance in addition to the standard insurances regulated by the Labor Code. Luxury company summer vacation and team-building budget.\nOpportunities to work onsite for international projects in Sweden, Australia, UK, USA, etc.\nOrganized training and full support in building your career.\nEnglish-speaking, international and professional work environment: working with expatriates from a number of countries, state of the art working space with a wonderful view over the city skyline, modern facilities include computer dual 24” screens running latest versions of Windows 11 Enterprise, MS Office 365, Team, latest version of Visual Studio, and SQL Server, Dell OptiPlex Workstation with 32 GB Ram, 512GB NVMe SSD.\nWestern management style that is professional, dynamic, open minded, creative, supportive, friendly and encouraging feedback.\nCompany Management that regularly communicates Company’s strategy, development plan and new opportunities to employees.\nEmployee and family are engaged and taken care by the Company via Trade Union activities.\nDiversified social and charity activities often organized by NICEF - Niteco Charity Engagement Foundation to create opportunities for our young employees to raise funds and help people with difficulties in Vietnam.\nPhysical care environment where you are taken care, feeling relaxed and enjoying lots of leisure activities such as badminton, ping pong, football, table football, dancing, running, cycling, cinema, etc.",
+      "createAt": "29-04-2023 21:31:32",
+      "id": 2,
+      "city": [
+        "Hà Nội"
+      ],
+      "updateAt": "30-04-2023 14:12:21"
+    },
+    {
+      "idCompany": 1,
+      "name": "Middle/Senior Java Developer",
+      "tags": [
+        "Java",
+        "SQL"
+      ],
+      "salary": "3000",
+      "description": "Top 3 Reasons To Join Us\nAttractive Salary and Benefits\nWorking & growing with Passionate & Talented Team\nAward: MVP for excellent Department/members\nJob Description\nRakuten FinTech Vietnam Co., Ltd. is the company, which was established in 2021, and the subsidiary of Rakuten Card, which is one of the biggest credit card company in Japan. Our mission is to develop internal system and mission-critical system for Rakuten Card and FinTech group companies to contribute to FinTech business growth, also to provide attractive environment for talented engineers in both Vietnam and Japan.\n\nWe are looking for a new member of our company, who will be working as Expert of this position. In this position, you will need to collaborate with stakeholders to support the business’ vision and strategy and be required to accelerate business activities to streamline daily operations through industry experience and your best practices. \n\nEspecially we are in the early stage right now, so that we would like to have the experienced administrative specialist who has flexibility and quickness, also is able to consider organization support by themselves.\n\nJob Description\n\nThis position will have responsibility to develop Web application, Web API and more for our Fintech services such as “Rakuten Card”, “Rakuten Pay”, Rakuten Bank” etc. \n\nResponsibilities\n\nPerform requirement analysis, design and technical documentation \nDesign, build, and maintain efficient, reusable, and reliable Java code \nWork to improve and enhance quality in automated testing, etc \nWork with leader and teammates to estimate and plan for projects \nBecause of start-up phase, we expect to join as tech leader level in our team and becoming leader/manager in the future.\n\nYour Skills and Experience\nMust have: \n\nAt least 3+ years working in Java Web/API development \nIntermediate-level in English communication \nStrong knowledge in Java Web & Enterprise (EE) technologies \nStrong experience in SQL, especially Oracle \nGood knowledge with source control and defect tracking tool \nGood experience with unit testing: JUnit, mock \nMust be independent, responsible, and self-motivated with the ability to learn and achieve superior results \nStrong communication skills with proven ability to present complex ideas and document in a clear and concise way.\nGood at English in Communication\nNice to have: \n\nWorking experience as a Tech Lead and Team Leader \nExperience in using JSF, frontend development \nExperience with building large, enterprise projects \nExperience in microservice, cloud computing\nWhy You'll Love Working Here\nAttractive Salary and Benefits\nWorking & growing with Passionate & Talented Team\nBonus: Lunar New Year Bonus, Performance Bonus.\nAward: MVP for excellent Department/members\nAnnual health check-up\nSocial Insurance, Health Insurance, Unemployment Insurance (company will pay for full salary); Voluntary health insurance & accident insurance (Aon care 24/7)\nCompany trip, Big annual year-end party every year, Team building, etc.\nWorking hour: Monday to Friday (working hour from 08:00 to 17:00)\nTraining: Tech E-Learning & various training on hot-trend technologies, best practices and soft skills\nTech SHIMEKAI (Monthly Technology Sharing)\nAnd much more, join us and let yourself explore other fantastic things!",
+      "status": true,
+      "createAt": "29-04-2023 21:32:17",
+      "id": 3,
+      "city": [
+        "Hà Nội",
+        "Đà Nẵng"
+      ],
+      "updateAt": "30-04-2023 14:12:15"
+    },
+    {
+      "idCompany": 1,
+      "name": "Junior Java Developer",
+      "tags": [
+        "Java"
+      ],
+      "salary": "2500",
+      "description": "Top 3 Reasons To Join Us\nInspired Leadership Team and Talented Colleagues\nEarn a competitive salary with attractive bonuse\nPremium Healthcare for you and your family\nJob Description\nThe successful candidates will undertake 2-month intensive training before joining projects. \n\nJob Responsibilities: Conduct technical task under Supervisor:\n\nActively involved in the product design and development process, from requirement & design, solution architecture, through integration, release & maintenance\nWriting Technical Design based on Feature Design (required)\nPerform Unit Test and follow team coding structure and guideline\nPerform coding review and code refactoring\nFixing issues / bugs reported\nDevelop & deliver “eCAT version 2” product features. \nSpecial Notes:\n\nPlease state your expected income in your application\nYour Skills and Experience\nEducation:\n\nUniversity/College degree in Information Technology, Computer Sciences, Management Information System, Industrial Management or equivalent.\nExperience:\n\nSenior: Have 1-2 years of experience in software development (JAVA)\nSoft skills:\n\nAble to obtain deep knowledge of the project’s technologies\nAble to work independently with minimal guidance\nAble to self-learn and quickly adapt to new technologies\nFamiliar with the Agile development methodologies.\nHard skills:\n\nExperience with web-based technologies: Spring (Spring Core, Spring MVC, Spring Security, Spring Data, Spring Boot) and ORM (JPA, Hibernate)\nExperience with O-O designs and design patterns\nExperience with Tomcat, and RESTful based web services\nExperience with Typescript/ReactJS\nExperienced working on WebSphere, OS, RestApi, OSLC and WebServices\nIBM Maximo Java Dev, Oracle DB, SQL DB, DB2 are plus\nExpertise to handle HTML/ CSS/ SCSS/ JavaScript/ Bootstrap\nExperience with Gradle Project\nAggressive problem diagnosis and creative problem-solving skills.\nGood experience with unit testing (JUnit, mock) is a plus.\nCloud-deployment & multi-tenant cloud design experience is a plus.\nTools & Report:\n\nDevelop Tool & Database: IntelliJ, Postgres SQL (latest version), Docker\nJetbrains Space platform is a plus.\nSVN: git\nTimesheet Weekly Report (System)\nLanguage:\n\nEnglish: Basic level, can read and understand material. Ability to communicate in English is a PLUS\nOthers is a PLUS\nWhy You'll Love Working Here\nSalary: Up to 21 mil VND; Attractive Year End Bonus based on performance\nAttractive Training Programs (course & on-job assignment); participation in project in immediately\nTo be certified for Software Deployment & Implementation by IBM, Oracle, OSISoft, etc)\nParticipating in large-scale projects, the opportunity to work directly with major customers of Avenue in the business management system: Dung Quat Refinery, PVGAS Corporation, Airport Corporation Vietnam, Saigon New Port and cross industries companies.\nOpportunities to work with world class domain expert/consultant: IBM, Oracle, OSISoft, Honeywell, R2E, etc. and their industry solutions.\nGood mentorship and career advancement program.\nWorking in a professional, dynamic environment and Fun with many sports, art and exciting team activities\nPremium Health Care Package for you and your family \nVacation: company package > 8,000,000 VND annually, plus 50% coverage spouse and kids.\nLegal holidays per company policy (9 days holidays with pay).\n12 days paid annual leave after one year’s service (individual).\nParticipating fully in the provisions of the government's labor laws such as social insurance, trade union, ...",
+      "status": true,
+      "createAt": "29-04-2023 21:33:23",
+      "id": 4,
+      "updateAt": "30-04-2023 14:12:09",
+      "city": [
+        "Đà Nẵng"
+      ]
+    },
+    {
+      "idCompany": 2,
+      "name": "Junior PHP Developer",
+      "tags": [
+        "PHP"
+      ],
+      "salary": "2500",
+      "description": "Top 3 Reasons To Join Us\nInspired Leadership Team and Talented Colleagues\nEarn a competitive salary with attractive bonuse\nPremium Healthcare for you and your family\nJob Description\nThe successful candidates will undertake 2-month intensive training before joining projects. \n\nJob Responsibilities: Conduct technical task under Supervisor:\n\nActively involved in the product design and development process, from requirement & design, solution architecture, through integration, release & maintenance\nWriting Technical Design based on Feature Design (required)\nPerform Unit Test and follow team coding structure and guideline\nPerform coding review and code refactoring\nFixing issues / bugs reported\nDevelop & deliver “eCAT version 2” product features. \nSpecial Notes:\n\nPlease state your expected income in your application\nYour Skills and Experience\nEducation:\n\nUniversity/College degree in Information Technology, Computer Sciences, Management Information System, Industrial Management or equivalent.\nExperience:\n\nSenior: Have 1-2 years of experience in software development (JAVA)\nSoft skills:\n\nAble to obtain deep knowledge of the project’s technologies\nAble to work independently with minimal guidance\nAble to self-learn and quickly adapt to new technologies\nFamiliar with the Agile development methodologies.\nHard skills:\n\nExperience with web-based technologies: Spring (Spring Core, Spring MVC, Spring Security, Spring Data, Spring Boot) and ORM (JPA, Hibernate)\nExperience with O-O designs and design patterns\nExperience with Tomcat, and RESTful based web services\nExperience with Typescript/ReactJS\nExperienced working on WebSphere, OS, RestApi, OSLC and WebServices\nIBM Maximo Java Dev, Oracle DB, SQL DB, DB2 are plus\nExpertise to handle HTML/ CSS/ SCSS/ JavaScript/ Bootstrap\nExperience with Gradle Project\nAggressive problem diagnosis and creative problem-solving skills.\nGood experience with unit testing (JUnit, mock) is a plus.\nCloud-deployment & multi-tenant cloud design experience is a plus.\nTools & Report:\n\nDevelop Tool & Database: IntelliJ, Postgres SQL (latest version), Docker\nJetbrains Space platform is a plus.\nSVN: git\nTimesheet Weekly Report (System)\nLanguage:\n\nEnglish: Basic level, can read and understand material. Ability to communicate in English is a PLUS\nOthers is a PLUS\nWhy You'll Love Working Here\nSalary: Up to 21 mil VND; Attractive Year End Bonus based on performance\nAttractive Training Programs (course & on-job assignment); participation in project in immediately\nTo be certified for Software Deployment & Implementation by IBM, Oracle, OSISoft, etc)\nParticipating in large-scale projects, the opportunity to work directly with major customers of Avenue in the business management system: Dung Quat Refinery, PVGAS Corporation, Airport Corporation Vietnam, Saigon New Port and cross industries companies.\nOpportunities to work with world class domain expert/consultant: IBM, Oracle, OSISoft, Honeywell, R2E, etc. and their industry solutions.\nGood mentorship and career advancement program.\nWorking in a professional, dynamic environment and Fun with many sports, art and exciting team activities\nPremium Health Care Package for you and your family \nVacation: company package > 8,000,000 VND annually, plus 50% coverage spouse and kids.\nLegal holidays per company policy (9 days holidays with pay).\n12 days paid annual leave after one year’s service (individual).\nParticipating fully in the provisions of the government's labor laws such as social insurance, trade union, ...",
+      "status": true,
+      "createAt": "29-04-2023 21:33:23",
+      "id": 5,
+      "updateAt": "30-04-2023 10:23:02"
+    },
+    {
+      "name": "Sr Backend Engineer (NodeJS, TypeScript)",
+      "tags": [
+        "NodeJS",
+        "Javascript",
+        "TypeScript"
+      ],
+      "salary": "2500",
+      "description": "Top 3 Reasons To Join Us\nOwnership and growth\nUp to 4 mth performance bonus\nAttractive Stock Options\nJob Description\nWe are seeking team members who strive to solve hard problems, take pride in delivering world-class products, and are strong team players.\n\nYou are someone who wants to see the impact of your work making a difference every day. You find passion in the craft and are constantly seeking improvement and better ways to solve tough problems.\n\nResponsibilities:\nContribute to the ideation, technical design, implementation, and testing of product features that empower our business and deliver impact to our customers.\nProduce high-quality software following good architecture and design principles that are scalable.\nDesign & deliver thoughtfully crafted APIs to drive the interactions between our client applications and backend services.\nCollaborate with the team to define the future of the ShopBack experience.\nStrong mentoring skills with the ability to provide technical guidance and review code.\n \nYour Skills and Experience\nRequirements:\n4+ years of experience developing consumer-facing web applications or complex distributed systems.\nProven experience designing complex distributed systems, management products, or business applications.\nUnderstanding of good software design principles and applied principles to professional work.\nHands-on experience working with Node.js (Preferred).\nHave experience in TypeScript (Preferred).\nHave knowledge in Test Driven Development (TDD), CI/CD.\nExperience building and deploying applications and services into cloud environments (AWS highly desired).\nStrong experience in the design and implementation of robust and highly scalable web services.\nAbility to work effectively in a fast-paced, complex technical environment with high adaptability and flexibility.\nGood English communication\nWhy You'll Love Working Here\nHave these benefits and a lot more at ShopBack VN:\n\nAttractive Stock Options for all employees\nUp to 4-month salary of Performance Bonus\n13-month Salary\n15 days of annual leave + 3 days of Medical leave + 1 day of birthday leave\n 5 days of Additional Time Off (after annual leave entitlement is fully utilized)\nA laptop of your choice for work purposes (Macbook or Lenovo) + other devices\nIDP Budget\nPVI Healthcare Insurance\nOther benefits: Fun monthly and quarterly activities; Fully stocked pantry of fun and healthy food/snacks; Ping-Pong table, PS4 in the office!\nWhich of these core values connects with you the most?\n\nOur Mission\n\nTo make shopping rewarding, delightful, and accessible.\nOur #SHOPBACK Values\n\nOur Values are not “Sound/Feel Good” values that are for show. We understand how our values build our culture and believe these aligned values will help us work better together to achieve our mission. We will hire, part ways, recognize or reward ShopBackers based on our values. \nUpholding these values is as important as our performance at work.\nHere are our 8 Values #SHOPBACK:\n\nSucceed as One We are one team. We win or lose as one ShopBack. We debate passionately with data and insight. We may disagree, but we always commit. \nHonour Our Customers Our customers’ happiness starts and ends with us. We obsess over earning their trust and never take it for granted.\nOwn the Problem Our solutions are actionable, constructive, and solve for teams beyond our own. Quick iteration beats slow perfection. Think for the long-term and build for scale.\nPave New Roads We proactively improve current practices and do not tolerate mediocrity. The products of our innovation must be useful. Our solutions simplify.\nBe Better Every Day We have humility and self-awareness. We seek feedback proactively because it helps us grow. We own up to our mistakes.\nAlways Be Curious We learn and improve faster than others. We understand deeply to seek the truth and are willing to be proven wrong.\nCan’t is Not an OptionWe possess grit and remain calm under pressure. We go all out to build a better ShopBack.\nKeep It Real We are authentic and keep our word. We give feedback with good intentions. We treat everyone with respect.",
+      "status": true,
+      "idCompany": "1",
+      "createAt": "30-04-2023 10:31:41",
+      "id": 6,
+      "city": [
+        "Hồ Chí Minh"
+      ],
+      "updateAt": "30-04-2023 14:12:00"
+    },
+    {
+      "name": "NodeJS Backend Developer (Middle,Senior)",
+      "tags": [
+        "NodeJS",
+        "SQL"
+      ],
+      "salary": "2000",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "description": "Top 3 Reasons To Join Us\nMức lương & phúc lợi hấp dẫn bạn sẽ yêu thích\nThưởng cổ phần ESOP cho sự nỗ lực và thành công\nMôi trường làm việc thân thiện và sáng tạo\nJob Description\nXây dựng, quản lý và tối ưu hóa cấu trúc cơ sở dữ liệu MongoDB cho ứng dụng.\nThiết kế, phát triển và bảo trì API để kết nối giữa ứng dụng và cơ sở dữ liệu.\nNghiên cứu và đưa ra các giải pháp phù hợp cho backend, đảm bảo hiệu năng cao, tính mở rộng và bảo mật.\nPhối hợp chặt chẽ với các thành viên trong đội ngũ để giải quyết công việc, hỗ trợ và tối ưu hóa các tính năng của ứng dụng.\nTriển khai các giải pháp bảo mật để đảm bảo dữ liệu của người dùng và ứng dụng được bảo vệ tốt nhất.\nTối ưu hoá code và cấu trúc dữ liệu để đạt được hiệu suất tối đa và chịu tải tốt nhất.\nXây dựng và phát triển hệ thống quản lý nội dung (CMS) cho ứng dụng, đảm bảo tính linh hoạt, dễ sử dụng và tích hợp tốt với các thành phần khác của ứng dụng.\n\n \n\nYour Skills and Experience\nTrên 5 năm kinh nghiệm phát triển ứng dụng\nThành thạo Nodejs (NestJS)\nThành thạo Web API, Web Services REST\nCó kinh nghiệm Docker, Kubernetes\nCó kinh nghiệm thiết kế những hệ thống có quy mô lớn \nNhiệt huyết, trách nhiệm, có tinh thần startup.\nCó khả năng làm việc theo nhóm\nWhy You'll Love Working Here\nChúng tôi mong muốn MINU là nơi bạn xây dựng sự nghiệp và tương lai. Cho dù bạn theo đuổi vị trí quản lý hay tập trung vào phát triển nghề nghiệp , chúng tôi ghi nhận và đánh giá cao tài năng của bạn. Vì vậy , chúng tôi luôn tạo điều kiện cho bạn học tập phát triển, đồng thời thiết kế chương trình giúp bạn thành công trên mọi nẻo đường sự nghiệp.\n\nĐỘI NHÓM GẮN KẾT:  Chúng tôi thường xuyên tổ chức các buổi teambuilding, party để tăng sự gắn kết và tin tưởng nhau hơn.  Chúng tôi làm việc cùng nhau nhưng chúng tôi cũng chơi cùng nhau.\n\nLàm việc cho công ty mình làm chủ:  MINU ghi nhận sự nỗ lực và cố gắng của team, cá nhân và trao thưởng cổ phiếu cho những cá nhân suất sắc, cùng nhau chia sẻ thành công và lợi nhuận. \n\nTHAY ĐỔI THẾ GIỚI: Xây dựng mạng xã hội giải trí hẹn hò , đem lại những giây phút giải trí tuyệt vời cho hàng trăm  người dùng. \n\nKhông có thứ hạng  Minu: Các thành viên được khuyến khích đóng góp ý kiến ​​và tranh luận với những người khác.\n\nKHÔNG CÓ \"VĂN PHÒNG\":  Văn phòng giống như nhà của bạn. Bạn có thể treo tranh, trồng cây, thậm chí là nuôi cá cảnh trên bàn làm việc.\n\nTea break hàng ngày : Mọi người cùng nhau nghe nhạc, uống trà-cafe , nói chuyện cười đùa.  Đây là một cách khá thú vị để giúp mọi người thư giãn.\n\nKHÔNG RÀO CẢN: Văn phòng MINU là một không gian mở bởi chúng tôi luôn cố gắng xóa bỏ mọi rào cản để giúp các thành viên dễ dàng chia sẻ với nhau.\n\nĂn mặc thoải mái: Tại MINU, chúng tôi không có nhiều quy tắc vì chúng tôi tôn trọng bạn và muốn tạo không khí thoải mái giúp nhân viên thực hiện tốt công việc của mình.",
+      "status": true,
+      "idCompany": "1",
+      "createAt": "30-04-2023 14:10:23",
+      "id": 7
+    },
+    {
+      "name": "Back-End ",
+      "tags": [
+        "Java"
+      ],
+      "salary": "1000-4500",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "description": "Mô tả công việc\n- Design, implement and maintain software components in complex, distributed systems.\n\n- Work closely with other groups (QA, Tech Support) to effectively diagnose and resolve software defects.\n\n- Participate into team collaborative design and code review activities.\n\n- Prioritize tasks and communicate to senior management effort estimates and project status periodically.\n\nYêu cầu ứng viên\n- At least 4 years of working experience as Software Engineer.\n\n- Proficiency in Java programming in both Windows and custom OEM frameworks.\n\n- Knowledge of secure protocols (SSL/TLS), relational databases and SQL.\n\n- Familiarity with .NET application development (WCF, ASP.NET) is a plus.\n\n- Working experience with Nuance Document Imaging's software products is a plus.\n\nQuyền lợi\n- Attractive salary\n\n- Annual salary review and adjustment\n\n- Professional working environment\n\n- Advanced health insurance for the whole family \n\nĐịa điểm làm việc\n- Hà Nội\nThời gian làm việc\nThứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+      "status": true,
+      "idCompany": "3",
+      "createAt": "31-01-2024 21:15:04",
+      "id": 8,
+      "updateAt": "31-01-2024 21:25:33"
+    },
+    {
+      "name": "Frond-end",
+      "tags": [
+        "ReactJS",
+        "HTML",
+        "Javascript",
+        "CSS"
+      ],
+      "salary": "700-2500",
+      "city": [
+        "Đà Nẵng",
+        "Hồ Chí Minh"
+      ],
+      "description": "Chi tiết tin tuyển dụng\nMô tả công việc\nImplementing web/mobile of frontend side with ReactJS.\nEnsuring cross-browser, cross-device performance, compatibility and responsiveness.\nOptimizing applications for maximum speed and scalability.\nYêu cầu ứng viên\nAt least 3 years of experience in React.js.\nExperience with HTML5, SCSS, and modern CSS.\nStrong proficiency with vanilla JavaScript, including DOM manipulation and the JavaScript object model.\nStrong experience with React.js (Redux, React hooks, both Functional and Class components).\nFamiliar with RESTful APIs.\nExperience with common front-end development tools such as Webpack, Gulp, etc.\nFamiliarity with code versioning tools (GIT).\nAbility to convert design specs (Figma, Adobe XD) into full working & pixel-perfect HTML5/CSS/JSX templates.\nAbility to understand business requirements and translate them into technical requirements.\nQuyền lợi\nSalary Range: Up to 30 million VND/month.\nFull salary during the probation period.\n13th-month bonus + revenue bonus (equivalent to 14 - 15 months of salary per year).\nBonus every 6 months (based on job performance and business results).\nSocial insurance contributions in accordance with Vietnamese labor laws, annual health check-ups.\nReact Plus Group healthcare benefits after 6 months of employment.\nParticipate in daily tea break activities, lively events, sports activities such as football and games, and monthly open talks.\nTeam-building every 4 months and annual company trips.\nĐịa điểm làm việc\n- Hà Nội: Tầng 7, tòa nhà Golden Field, số 24 đường Nguyễn Cơ Thạch, Nam Từ Liêm",
+      "status": true,
+      "idCompany": "3",
+      "createAt": "31-01-2024 21:25:11",
+      "id": 9
+    }
+  ],
+  "cv": [
+    {
+      "id": 1,
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "levana@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van A. Hiện tại tôi đang là...",
+      "linkProject": "",
+      "createAt": "29-04-2023 10:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": 2,
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Le Van E",
+      "phone": "0123456789",
+      "email": "levane@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van E. Hiện tại tôi đang là...",
+      "linkProject": "",
+      "createAt": "29-04-2023 10:32:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": 3,
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Le Van F",
+      "phone": "0123456789",
+      "email": "levanf@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van F. Hiện tại tôi đang là...",
+      "linkProject": "",
+      "createAt": "29-04-2023 10:33:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": 4,
+      "idCompany": 2,
+      "idJob": 5,
+      "name": "Le Van B",
+      "phone": "0123456789",
+      "email": "levanb@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Le Van B. Hiện tại tôi đang là...",
+      "linkProject": "",
+      "createAt": "30-04-2023 10:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "id": 5,
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Le Van C",
+      "phone": "0123456789",
+      "email": "levanc@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Le Van C. Hiện tại tôi đang là...",
+      "linkProject": "",
+      "createAt": "30-04-2023 10:31:41",
+      "city": "Hà Nội"
+    },
+    {
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "namdp.1999@gmail.com",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "linkProject": "https://itviec.com/\nhttps://www.w3schools.com/",
+      "idJob": 7,
+      "idCompany": 1,
+      "createAt": "03-05-2023 08:59:36",
+      "id": 6
+    },
+    {
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "namdp.1999@gmail.com",
+      "description": "ádasd",
+      "linkProject": "ádasd",
+      "idJob": 7,
+      "idCompany": 1,
+      "createAt": "03-05-2023 09:02:32",
+      "id": 7,
+      "statusRead": true
+    },
+    {
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "levana@gmail.com",
+      "city": "Hà Nội",
+      "description": "Lorem...",
+      "linkProject": "Lorem 123 ...",
+      "idJob": 7,
+      "idCompany": 1,
+      "createAt": "04-05-2023 10:35:35",
+      "id": 8,
+      "statusRead": true
+    },
+    {
+      "name": "Nam test",
+      "phone": "0123456789",
+      "email": "namtest@gmail.com",
+      "city": "Hà Nội",
+      "description": "Xin chào...",
+      "linkProject": "https://daca.vn/",
+      "idJob": 7,
+      "idCompany": 1,
+      "createAt": "09-05-2023 22:28:37",
+      "id": 9,
+      "statusRead": true
+    },
+    {
+      "name": "Le Van A",
+      "phone": "0344570115",
+      "email": "namdp.1999@gmail.com",
+      "city": "Hà Nội",
+      "description": "Xin chào...",
+      "linkProject": "daca.vn",
+      "idJob": 7,
+      "idCompany": 1,
+      "createAt": "01-06-2023 21:25:50",
+      "id": 10,
+      "statusRead": true
+    }
+  ]
+}

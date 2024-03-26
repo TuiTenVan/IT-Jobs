@@ -1,0 +1,78 @@
+body{
+  margin: 0;
+}
+.layout-admin {
+  &__header {
+    display: flex;
+    background: rgb(68, 153, 149);
+    border-bottom: 1px solid #edf2f9;
+    height: 70px;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
+
+  &__logo {
+    width: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #edf2f9;
+    transition: all 0.2s;
+    font-size: 24px;
+    font-weight: 800;
+
+    a {
+      color: var(--color-main);
+    }
+
+    &--fold {
+      width: 80px;
+    }
+  }
+  
+  &__account{
+    button{
+      margin-right: 15px;
+    }
+  }
+  &__nav {
+    flex: 1;
+    padding: 0 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__icon-collapse {
+    cursor: pointer;
+    font-size: 18px;
+  }
+
+  &__main {
+    margin-left: 230px;
+    transition: all 0.2s;
+
+    &--fold {
+      margin-left: 80px;
+    }
+  }
+
+  &__sider {
+    border-right: 1px solid #edf2f9;
+    position: fixed!important;
+    height: calc(100vh - 70px);
+    left: 0;
+    top: 70px;
+  }
+
+  &__search {
+    margin-left: 20px;
+    flex: 1;
+  }
+
+  &__content {
+    background: #F9FBFD;
+    padding: 25px;
+  }
+}
