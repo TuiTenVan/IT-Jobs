@@ -7,6 +7,7 @@ import { EyeOutlined } from "@ant-design/icons";
 import EditJob from "./EditJob";
 import DeleteJob from "./DeleteJob";
 import { getCookie } from "../../helpers/cookie";
+import "./JobList.scss";
 
 function JobList(props) {
   const idCompany = getCookie("id");
@@ -79,15 +80,15 @@ function JobList(props) {
       title: "Hành động",
       key: "actions",
       render: (_, record) => (
-        <>
+        <div className="action-icons">
           <Link to={`/detail-job/${record.id}`}>
             <Tooltip title="Xem chi tiết">
-              <Button icon={<EyeOutlined />}></Button>
+              <Button icon={<EyeOutlined />} className="action-button" />
             </Tooltip>
           </Link>
-          <EditJob record={record} onReload={handleReload} />
-          <DeleteJob record={record} onReload={handleReload} />
-        </>
+          <EditJob record={record} onReload={handleReload} className="action-button" />
+          <DeleteJob record={record} onReload={handleReload} className="action-button" />
+        </div>
       ),
     },
   ];

@@ -1,0 +1,36 @@
+.job-detail-container {
+    // padding: 20px;
+    // background-color: #f0f2f5;
+    min-height: 100vh;
+  
+    .job-detail-card {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      background: #fff;
+      padding: 10px;
+      margin-top: 20px;
+  
+      .status-container,
+      .tags-container,
+      .salary-container,
+      .date-container,
+      .city-container,
+      .description-container {
+        margin-bottom: 20px;
+      }
+  
+      .description-title {
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+    }
+  
+    .spinner-container,
+    .alert-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+  }
+  

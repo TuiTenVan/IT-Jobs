@@ -1,10 +1,12 @@
 import * as company from "../../services/companyService";
 import { setCookie } from "../../helpers/cookie";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { checkAuthen } from "../../actions/authentication";
-import { Button, Card, Col, Form, Input, Row, message } from "antd";
+import { Button, Card, Col, Form, Input, Row, message, Typography } from "antd";
 import { rules } from "../../contants";
+
+const { Text } = Typography;
 
 function Login() {
   const navigate = useNavigate();
@@ -30,24 +32,46 @@ function Login() {
     <>
       {contextHolder}
 
-      <Row justify="center">
-        <Col span={12}>
-          <Card title="Đăng nhập">
-            <Form onFinish={onFinish} layout="vertical">
-              <Form.Item label="Email" name="email" rules={rules}>
+      <Row justify="center" style={{ marginTop: '50px' }}>
+        <Col xs={24} sm={16} md={12} lg={8}>
+          <Card
+            title={<div style={{ textAlign: 'center' }}>Đăng nhập</div>}
+            style={{ borderRadius: '8px', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)' }}
+          >
+            <Form
+              onFinish={onFinish}
+              layout="vertical"
+              style={{ padding: '0 20px' }}
+            >
+              <Form.Item
+                label="Email"
+                name="email"
+                rules={rules}
+                style={{ marginBottom: '15px' }}
+              >
                 <Input />
               </Form.Item>
 
-              <Form.Item label="Password" name="password" rules={rules}>
+              <Form.Item
+                label="Password"
+                name="password"
+                rules={rules}
+                style={{ marginBottom: '15px' }}
+              >
                 <Input.Password />
               </Form.Item>
 
               <Form.Item>
-                <Button type="primary" htmlType="submit">
+                <Button type="primary" htmlType="submit" block style={{ marginBottom: '10px' }}>
                   Đăng nhập
                 </Button>
               </Form.Item>
             </Form>
+            <div style={{ textAlign: 'center' }}>
+              <Text>
+                Chưa có tài khoản? <Link to="/register">Đăng ký</Link>
+              </Text>
+            </div>
           </Card>
         </Col>
       </Row>

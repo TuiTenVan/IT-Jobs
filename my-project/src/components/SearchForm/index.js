@@ -2,6 +2,7 @@ import { Input, Select, Form, Button, Row, Col } from "antd";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { getListCity } from "../../services/cityService";
+import "./SearchForm.scss";
 
 function SearchForm() {
   const navigate = useNavigate();
@@ -24,30 +25,28 @@ function SearchForm() {
   const handleFinish = (values) => {
     let city = values.city || "";
     city = values.city === "All" ? "" : city;
-    navigate(
-      `/search?city=${city}&keyword=${values.keyword || ""}`
-    );
+    navigate(`/search?city=${city}&keyword=${values.keyword || ""}`);
   };
 
   return (
-    <>
-      <h1>1000+ IT Jobs For Developers</h1>
+    <div className="search-form">
+      <h1 className="search-form__title">1000+ IT Jobs For Developers</h1>
       {city && (
         <Form onFinish={handleFinish}>
           <Row gutter={[12, 12]}>
-            <Col xxl={6} xl={6} lg={6}>
-              <Form.Item name="city">
+            <Col xxl={8} xl={8} lg={8}>
+              <Form.Item name="city" className="search-form__input-wrapper">
                 <Select options={city} placeholder="Chọn thành phố" />
               </Form.Item>
             </Col>
-            <Col xxl={15} xl={15} lg={15}>
-              <Form.Item name="keyword">
+            <Col xxl={12} xl={12} lg={12}>
+              <Form.Item name="keyword" className="search-form__input-wrapper">
                 <Input placeholder="Nhập từ khóa..." />
               </Form.Item>
             </Col>
             <Col xxl={3} xl={3} lg={3}>
-              <Form.Item>
-                <Button type="primary" htmlType="submit" block>
+              <Form.Item className="search-form__button-wrapper">
+                <Button type="primary" htmlType="submit" className="search-form__submit-button">
                   Tìm kiếm
                 </Button>
               </Form.Item>
@@ -55,7 +54,7 @@ function SearchForm() {
           </Row>
         </Form>
       )}
-    </>
+    </div>
   );
 }
 

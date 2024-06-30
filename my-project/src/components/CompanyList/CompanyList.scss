@@ -1,0 +1,40 @@
+// CompanyList.scss
+
+.company-list {
+    &__title {
+        margin-top: 100px;
+        font-size: 24px;
+        margin-bottom: 20px;
+        color: #333;
+        text-align: center; // Căn giữa tiêu đề
+      }
+  
+    &__card-link {
+      color: #333;
+      text-decoration: none;
+      transition: color 0.3s ease;
+  
+      &:hover {
+        color: #1890ff;
+      }
+    }
+  
+    &__card {
+      border: 1px solid #e8e8e8;
+      border-radius: 8px;
+      transition: box-shadow 0.3s ease;
+      margin: 0 25px;
+  
+      &:hover {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+  
+      &__info {
+        margin-bottom: 10px;
+      }
+    }
+  
+    &__button {
+        margin-top: 20px;
+    }
+  }

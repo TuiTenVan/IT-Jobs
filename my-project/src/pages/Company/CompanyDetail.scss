@@ -1,0 +1,57 @@
+// CompanyDetail.scss
+
+.company-detail {
+    padding: 0 20px 20px 20px;
+  }
+  
+  .company-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .company-info {
+    margin-bottom: 20px;
+  
+    strong {
+      font-weight: bold;
+    }
+  }
+  
+  .job-list {
+    margin-top: 20px;
+  }
+  
+  .job-item {
+    border: 1px solid #e8e8e8;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 20px;
+    transition: transform 0.3s;
+    cursor: pointer;
+  
+    &:hover {
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      transform: translateY(-5px);
+    }
+  
+    .job-title {
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+  
+    .job-description {
+      margin-bottom: 10px;
+    }
+  
+    .job-meta {
+      font-size: 14px;
+  
+      span {
+        margin-right: 10px;
+      }
+    }
+  }
+  

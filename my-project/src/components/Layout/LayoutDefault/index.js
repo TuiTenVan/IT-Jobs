@@ -13,7 +13,7 @@ function LayoutDefault() {
       <div className="layout-default">
         <Header />
         <Main />
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </>
   );

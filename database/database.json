@@ -23,7 +23,7 @@
       "id": 2
     },
     {
-      "companyName": "Gia đình Nguyễn Viết Văn",
+      "companyName": "Công ty Nhà Tôi",
       "email": "nguyenvietvan223@gmail.com",
       "phone": "0326765923",
       "password": "123456",
@@ -31,7 +31,7 @@
       "id": 3,
       "address": "Đoàn Tùng - Thanh Miện - Hải Dương",
       "quantityPeople": 2,
-      "workingTime": "8 a.m - 22 p.m",
+      "workingTime": "8 a.m -17 p.m",
       "website": "https://github.com/TuiTenVan",
       "description": "Chúng tôi là một doanh nghiệp đang phát triển với sứ mệnh cung cấp giải pháp công nghệ sáng tạo và hiệu quả cho khách hàng trên khắp thế giới. Với một đội ngũ chuyên gia đa ngành và tâm huyết, chúng tôi cam kết đem lại giá trị cao nhất cho đối tác và xây dựng những sản phẩm có ảnh hưởng tích cực đến cộng đồng.",
       "detail": "Lĩnh Vực Hoạt Động:\n\nPhát triển phần mềm và ứng dụng di động\nGiải pháp Cloud và quản lý hạ tầng\nAn ninh thông tin và bảo mật mạng\nTrí tuệ nhân tạo và học máy\nTư vấn công nghệ và dịch vụ IT\nGiá Trị Cốt Lõi:\nChúng tôi đặt giá trị khách hàng lên hàng đầu và luôn tìm kiếm sự đổi mới để đáp ứng nhanh chóng với sự phức tạp của thị trường công nghệ. Chúng tôi tôn trọng ý kiến đóng góp từ mỗi thành viên trong đội ngũ và xây dựng một môi trường làm việc sáng tạo và động lực.\n\nChương Trình Phúc Lợi:\n\nMức lương cạnh tranh và thưởng kết quả làm việc\nGói bảo hiểm sức khỏe và phúc lợi cho nhân viên và gia đình\nKhám sức khỏe định kỳ và các chương trình phòng ngừa\nHỗ trợ đào tạo và phát triển nghề nghiệp\nMôi trường làm việc linh hoạt và thân thiện"
@@ -246,11 +246,11 @@
         "Hồ Chí Minh"
       ],
       "description": "Mô tả công việc\n- Design, implement and maintain software components in complex, distributed systems.\n\n- Work closely with other groups (QA, Tech Support) to effectively diagnose and resolve software defects.\n\n- Participate into team collaborative design and code review activities.\n\n- Prioritize tasks and communicate to senior management effort estimates and project status periodically.\n\nYêu cầu ứng viên\n- At least 4 years of working experience as Software Engineer.\n\n- Proficiency in Java programming in both Windows and custom OEM frameworks.\n\n- Knowledge of secure protocols (SSL/TLS), relational databases and SQL.\n\n- Familiarity with .NET application development (WCF, ASP.NET) is a plus.\n\n- Working experience with Nuance Document Imaging's software products is a plus.\n\nQuyền lợi\n- Attractive salary\n\n- Annual salary review and adjustment\n\n- Professional working environment\n\n- Advanced health insurance for the whole family \n\nĐịa điểm làm việc\n- Hà Nội\nThời gian làm việc\nThứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
-      "status": true,
+      "status": false,
       "idCompany": "3",
       "createAt": "31-01-2024 21:15:04",
       "id": 8,
-      "updateAt": "31-01-2024 21:25:33"
+      "updateAt": "07-05-2024 16:14:16"
     },
     {
       "name": "Frond-end",
@@ -263,13 +263,15 @@
       "salary": "700-2500",
       "city": [
         "Đà Nẵng",
-        "Hồ Chí Minh"
+        "Hồ Chí Minh",
+        "Hà Nội"
       ],
       "description": "Chi tiết tin tuyển dụng\nMô tả công việc\nImplementing web/mobile of frontend side with ReactJS.\nEnsuring cross-browser, cross-device performance, compatibility and responsiveness.\nOptimizing applications for maximum speed and scalability.\nYêu cầu ứng viên\nAt least 3 years of experience in React.js.\nExperience with HTML5, SCSS, and modern CSS.\nStrong proficiency with vanilla JavaScript, including DOM manipulation and the JavaScript object model.\nStrong experience with React.js (Redux, React hooks, both Functional and Class components).\nFamiliar with RESTful APIs.\nExperience with common front-end development tools such as Webpack, Gulp, etc.\nFamiliarity with code versioning tools (GIT).\nAbility to convert design specs (Figma, Adobe XD) into full working & pixel-perfect HTML5/CSS/JSX templates.\nAbility to understand business requirements and translate them into technical requirements.\nQuyền lợi\nSalary Range: Up to 30 million VND/month.\nFull salary during the probation period.\n13th-month bonus + revenue bonus (equivalent to 14 - 15 months of salary per year).\nBonus every 6 months (based on job performance and business results).\nSocial insurance contributions in accordance with Vietnamese labor laws, annual health check-ups.\nReact Plus Group healthcare benefits after 6 months of employment.\nParticipate in daily tea break activities, lively events, sports activities such as football and games, and monthly open talks.\nTeam-building every 4 months and annual company trips.\nĐịa điểm làm việc\n- Hà Nội: Tầng 7, tòa nhà Golden Field, số 24 đường Nguyễn Cơ Thạch, Nam Từ Liêm",
       "status": true,
       "idCompany": "3",
       "createAt": "31-01-2024 21:25:11",
-      "id": 9
+      "id": 9,
+      "updateAt": "05-06-2024 10:10:42"
     }
   ],
   "cv": [

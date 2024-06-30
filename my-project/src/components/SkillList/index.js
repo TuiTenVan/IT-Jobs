@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { getListTag } from "../../services/tagService";
 import { Tag } from "antd";
 import { Link } from "react-router-dom";
+import "./Tags.scss"; 
 
 function SkillList() {
   const [tags, setTags] = useState([]);
@@ -17,17 +18,15 @@ function SkillList() {
   }, []);
 
   return (
-    <>
-      <div className="mb-20">
-        {tags.map((item) => (
-          <Link to={`/search?keyword=${item.value || ""}`} key={item.key}>
-            <Tag color="blue" className="mb-5">
-              {item.value}
-            </Tag>
-          </Link>
-        ))}
-      </div>
-    </>
+    <div className="tags__container">
+      {tags.map((item) => (
+        <Link to={`/search?keyword=${item.value || ""}`} key={item.key} className="tags__link">
+          <Tag color="blue" className="tags__tag">
+            {item.value}
+          </Tag>
+        </Link>
+      ))}
+    </div>
   );
 }
 

@@ -12,13 +12,20 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-right: 30px;
   }
 
+  button{
+    margin-right: 15px;
+  }
   &__logo {
-    font-size: 24px;
+    padding: 5px;
+    margin-left: 50px;
+    font-size: 28px;
     font-weight: 800;
 
     a {
+      text-decoration: none;
       color: var(--color-main);
     }
   }
@@ -32,7 +39,9 @@
   &__footer {
     padding: 15px 0;
     text-align: center;
-    background: #333;
-    color: #fff;
+    background: rgb(68, 153, 149);
+    color: var(--color-main);
+    font-weight: 700;
+    font-size: 20px;
   }
 }

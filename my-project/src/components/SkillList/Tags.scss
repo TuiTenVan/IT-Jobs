@@ -1,0 +1,37 @@
+// Tags.scss
+
+.tags {
+    &__container {
+        // margin-top: 50px;
+        text-align: center;
+    }
+  
+    &__link {
+      display: inline-block;
+      margin-bottom: 5px;
+      transition: transform 0.3s ease; // Hiệu ứng hover cho các thẻ link
+      text-decoration: none;
+      color: inherit;
+  
+      &:hover {
+        transform: translateY(-2px); // Hiệu ứng di chuyển lên trên khi hover
+      }
+    }
+  
+    &__tag {
+      margin-right: 5px;
+      margin-bottom: 5px;
+      font-size: 16px;
+      border-radius: 4px;
+      background-color: #f0f0f0; // Màu nền cho thẻ Tag
+      color: #333; // Màu chữ cho thẻ Tag
+      transition: background-color 0.3s ease, color 0.3s ease; // Hiệu ứng hover
+      cursor: pointer;
+  
+      &:hover {
+        background-color: #6aa8e2; // Màu nền khi hover
+        color: #fff; // Màu chữ khi hover
+      }
+    }
+  }
+  
